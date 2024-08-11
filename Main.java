@@ -5,5 +5,6 @@ public class Main {
         System.out.println("This is output from java program");
         System.out.println(new Date());
         System.out.println("Added new Line");
+        System.out.println("Added new line to check from EC2 jenkins");
     }
 }
